@@ -1,0 +1,13 @@
+{
+  "branchList": [
+    "zhejiang_develop",
+	"develop",
+  ],
+  "repoDirList": [
+    "E:/work/Git/CAM/CAM_OM/.git"
+  ],
+  "since": "2017-08-01",
+  "until": "2017-08-31",
+  "targetFile": "result.csv",
+  "detailLog":"no"
+}
